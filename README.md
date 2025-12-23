@@ -34,7 +34,8 @@ The workflow allows for "Touchless Reporting" by following this logic pipeline:
 
 ## 📸 Workflow Visualization
 
-<img width="808" height="1362" alt="image" src="https://github.com/user-attachments/assets/a978c3c2-7a0a-49d1-b89f-a2bc3aebec95" />
+<img width="1908" height="535" alt="image" src="https://github.com/user-attachments/assets/b38b20d5-a801-49c5-b2d1-80becbae9e49" />
+
 
 *(Screenshot of the full pipeline)*
 
