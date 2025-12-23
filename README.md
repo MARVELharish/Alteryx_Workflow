@@ -34,10 +34,12 @@ The workflow allows for "Touchless Reporting" by following this logic pipeline:
 
 ## 📸 Workflow Visualization
 
-![Alteryx Workflow Overview](Place_Your_Workflow_Screenshot_Here.png)
+<img width="808" height="1362" alt="image" src="https://github.com/user-attachments/assets/a978c3c2-7a0a-49d1-b89f-a2bc3aebec95" />
+
 *(Screenshot of the full pipeline)*
 
-![Report Text Configuration](Place_Your_Report_Tool_Screenshot_Here.png)
+<img width="808" height="1362" alt="image" src="https://github.com/user-attachments/assets/821e8d8d-9d13-4fe1-9c8a-b707c8ad60e8" />
+
 *(Detail of how dynamic fields are injected into the email body)*
 
 ## 🚀 How to Run This Project
